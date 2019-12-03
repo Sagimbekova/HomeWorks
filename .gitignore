@@ -1,0 +1,9 @@
+# Default ignored files
+
+*.xml
+*.html
+
+/out
+/idea
+
+*iml
